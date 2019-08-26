@@ -3,7 +3,7 @@ GROUP_0658 PHASE 2
 ### INSTRUCTIONS:
 
 1. Install Android Studio if you haven't already.
-2. Get the URL for the starter code repository from MarkUs and clone it using Android Studio.
+2. Retrieve the URL for the starter code repository from MarkUs and clone it using Android Studio.
         - URL: https://markus.teach.cs.toronto.edu/git/csc207-2018-09-reg/group_0658
         - Answer "Yes" to whether you want to create a new Android Studio project.
         - Select "Import project from external model" and click Next
@@ -31,7 +31,7 @@ Each Game Page
 Sliding Tiles Game
     - Once the user starts a new game...
     - Can choose from three different board sizes (3x3/4x4/5x5).
-    - Then user has option to use an image as the board tiles by choosing from the images provided 
+    - Then user has option to use an image as the board tiles by choosing from the images provided
       or import image from phone. If this option is skipped, starts a generic game with number tiles
     - Brought back to main game page when solved
     - Implements Autosave, Save, and Undo
